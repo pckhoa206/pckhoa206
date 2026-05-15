@@ -14,7 +14,7 @@ I enjoy exploring the world of Machine Learning, Data Science, and solving compl
 - ✍️ **Documentation:** I love using **LaTeX** for professional reports and **Notion** for knowledge management.
 - ⚽ **Passions:** A fan of **Real Madrid** and an enjoyer of **Teamfight Tactics**.
 - 📫 **Contact:** [phamkhoachan@gmail.com](mailto:phamkhoachan@gmail.com)
-- 🔗 Connect with me on: [LinkedIn]([https://www.linkedin.com/in/phạm-chấn-khoa-aa0b66341/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0Gu2NF7iSFK2ed3ffWQHFQ%3D%3D])
+- 🔗 Connect with me on: [LinkedIn](https://www.linkedin.com/in/phạm-chấn-khoa-aa0b66341/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0Gu2NF7iSFK2ed3ffWQHFQ%3D%3D)
 ---
 
 ### 🛠️ Technologies & Tools
